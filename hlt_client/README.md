@@ -9,4 +9,4 @@ Uploading bots:
 ```./client.py bot -b [PATH_TO_ZIP]```
 
 More info here:  
-```https://halite.io/learn-programming-challenge/halite-cli-and-tools/halite-client-tools```
+https://halite.io/learn-programming-challenge/halite-cli-and-tools/halite-client-tools
