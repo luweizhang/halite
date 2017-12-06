@@ -7,3 +7,6 @@ Before using the tool’s features, you must authenticate it to act on your beha
 
 Uploading bots:  
 ```./client.py bot -b [PATH_TO_ZIP]```
+
+More info here:  
+```https://halite.io/learn-programming-challenge/halite-cli-and-tools/halite-client-tools```
