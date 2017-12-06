@@ -1,1 +1,1 @@
-#neural network based halite bot
+neural network based halite bot
